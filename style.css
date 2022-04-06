@@ -1,0 +1,323 @@
+body {
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+}
+
+/** MENUBAR **/
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+}
+
+.menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 362px;
+}
+
+.menu ul a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+}
+
+.navegador {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 207px;
+    height: 44px;
+}
+
+.navegador button {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.entrar {
+    width: 83px;
+    height: 44px;
+    color: #667085;
+    background-color: #ffffff;
+    border: none;
+}
+
+.cadastrar {
+    width: 112px;
+    height: 44px;
+    background: #8E2424;
+    border: 1px solid #8E2424;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+/** SOBRE NÓS **/
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter';
+    font-style: normal;
+    height: 407px;
+}
+
+.cabecalho span {
+    height: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8E2424;
+    font-family: 'Inter', semi bold;
+}
+
+.cabecalho h1 {
+    margin: 24px 0;
+    height: 60px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    color: #101828;
+
+
+}
+
+.cabecalho p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #667085;
+
+    width: 791px;
+
+}
+
+/** METRICAS **/
+
+.metricas-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 288px;
+}
+
+.metricas-container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-basis: 280px;
+    height: 168px;
+}
+
+.metricas-container span {
+    height: 72px;
+    line-height: 72px;
+    font-weight: 600;
+    font-size: 60px;
+    color: #8E2424;
+}
+
+.metricas-container h2 {
+    height: 28px;
+    line-height: 28px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #101828;
+}
+
+.metricas-container p {
+    height: 48px;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: #667085;
+}
+
+/** VAGAS **/
+
+.vagas-abertas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 0px;
+    height: 1798px;
+}
+
+.vagas-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 602px;
+}
+
+.vagas-header span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #8E24240D;
+    border-radius: 16px;
+    padding: 4px 12px;
+}
+
+.vagas-header legend {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #8E2424;
+    border-radius: 16px;
+
+}
+
+.vagas-header h3 {
+    height: 28px;
+    margin: 20px 0px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+}
+
+.vagas-header p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #667085;
+}
+
+
+
+
+
+
+
+.tipo-vaga {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 24px 0px;
+}
+
+.disponivel-vaga {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 768px;
+    height: 358px;
+}
+
+.categoria {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 16px;
+    color: #101828;
+
+}
+
+.vaga {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    border: 1px solid #EAECF0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    height: 136px;
+}
+
+.titulo-vaga {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+    margin-left: 24px;
+
+}
+
+.informacoes {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 24px;
+      font-family: 'Inter';
+
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #667085;
+
+
+}
+
+.remunera {
+    padding-left: 24px;
+}
+/** DESCRICAO-VAGAS
+
+.classe-vaga {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 1280px;
+    height: 940px;
+    margin: 64px 0px;
+}
+
+.title-vaga {
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #101828;
+    margin: 24px 0px;
+    width: 768px;
+}
+
+.vaga {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 768px;
+    height: 136px;
+    padding: 24px 24px 28px;
+    border: 1px solid #EAECF0;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.titulo-vaga {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.informacoes {    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #667085;
+    margin: 32px 0px;
+}
+ **/
