@@ -1,24 +1,46 @@
-## <h1>Olá, eu sou Carol Maini!</h1>
-<h3>🖱Estudante de conteúdo de programação</h3>
+# Olá, eu sou Carol Maini! 👋
 
-##
-<div align="center">
-  <a href="https://github.com/CarolMaini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolmaini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolmaini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/carol-maini-400316214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/rosario#5637" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carolflowermaini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+### Programação | Desenvolvimento de Software | Análise e Desenvolvimento de Sistemas
+
+Tenho experiência prática com desenvolvimento de aplicações e projetos digitais, atuando em desenvolvimento web, implementação de funcionalidades, APIs e criação de interfaces. Também tenho interesse em design digital e produção de recursos visuais.
+
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** e sigo ampliando meus conhecimentos em programação e desenvolvimento de software.
+
+## 💻 Tecnologias e ferramentas
+
+- **Programação:** Python, JavaScript, HTML5 e CSS3
+- **Backend e APIs:** Django, Django REST Framework e APIs REST
+- **Ferramentas e ambiente:** Git, GitHub, Docker e AWS
+- **Web:** WordPress e Elementor
+- **Design e criação visual:** Inkscape, GIMP e Figma
+
+## 🚀 Projetos e experiências
+
+### Plataforma de gestão de desempenho — 9Box
+Participação na evolução da plataforma, incluindo refatoração do frontend com abordagem data-driven e white label, além de contribuições no desenvolvimento backend e em APIs REST com Python, Django e Django REST Framework. O trabalho envolveu personalização visual por cliente, funcionalidades, regras de negócio, dashboards e relatórios.
+
+[Ver repositório do frontend](https://github.com/CarolMaini/9box-frontend)
+
+### Sidequest Studio — desenvolvimento de jogo
+Contribuição na criação de assets gráficos para projeto de jogo, com foco em ilustração vetorial e produção de elementos visuais utilizando **Inkscape**.
+
+### Sistema de tarefas
+Projeto com tecnologias Python e Django, voltado à prática de desenvolvimento web e organização de funcionalidades de uma aplicação.
+
+[Ver repositório](https://github.com/CarolMaini/sistema-tarefas)
+
+### Estudos em Python
+Exercícios e pequenos projetos para praticar lógica de programação e fundamentos da linguagem.
+
+[Ver repositório](https://github.com/CarolMaini/python-estudos)
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Descomplica  
+Cursando — início em 2026.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/carol-maini/)
+- [GitHub](https://github.com/CarolMaini)
+- [E-mail](mailto:carolmainioficial@gmail.com)
