@@ -1,6 +1,6 @@
 # Olá, eu sou Carol Maini! 👋
 
-### Programação | Desenvolvimento de Software | Análise e Desenvolvimento de Sistemas
+### Programação | Desenvolvimento de Software | Desenvolvimento de Jogos | Análise e Desenvolvimento de Sistemas
 
 Tenho experiência prática com desenvolvimento de aplicações e projetos digitais, atuando em desenvolvimento web, implementação de funcionalidades, APIs e criação de interfaces. Também tenho interesse em design digital e produção de recursos visuais.
 
@@ -21,7 +21,7 @@ Participação na evolução da plataforma, incluindo refatoração do frontend 
 
 [Ver repositório do frontend](https://github.com/CarolMaini/9box-frontend)
 
-### Sidequest Studio — desenvolvimento de jogo
+### [Sidequest Studio — desenvolvimento de jogos](https://github.com/SidequestGamesStudio)
 Contribuição na criação de assets gráficos para projeto de jogo, com foco em ilustração vetorial e produção de elementos visuais utilizando **Inkscape**.
 
 ### Sistema de tarefas
