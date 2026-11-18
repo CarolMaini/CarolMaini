@@ -50,16 +50,23 @@ Participação na evolução de uma plataforma digital de gestão de desempenho,
 
 ### Organizador — Aplicação web para gestão de tarefas
 
-Projeto autoral desenvolvido com **Python e Django** para organizar tarefas, rotinas recorrentes e espaços compartilhados. O projeto é utilizado para aplicar conceitos de desenvolvimento backend e estruturar uma aplicação web com funcionalidades integradas.
+Projeto autoral desenvolvido com **Python 3.12 e Django**, estruturado como um monólito modular para organizar atividades, rotinas recorrentes e espaços compartilhados. A aplicação integra backend, interface web, persistência de dados e regras de acesso em módulos separados por responsabilidade.
 
-- Organização da aplicação e modelagem dos dados para representar tarefas, rotinas e espaços de trabalho.
-- Implementação de funcionalidades de gestão de atividades e recorrências.
-- Desenvolvimento de fluxos de autenticação, autorização e controle de acesso.
-- Integração entre as funcionalidades da aplicação e suas regras de negócio.
-- Testes automatizados, documentação e manutenção contínua do código.
-- Disponibilização de uma **demonstração pública com acesso sem login**, preservando uma experiência de avaliação independente do fluxo de autenticação da aplicação.
+**Decisões e implementações técnicas:**
+- Organização por aplicações Django, separando domínios como contas, controle de acesso, espaços de trabalho, tarefas, agendamento, auditoria e dashboard.
+- Modelagem de tarefas, regras de recorrência, ocorrências datadas e atribuições individuais.
+- Geração idempotente de ocorrências semanais, quinzenais e mensais, com atenção a limites de calendário e prevenção de registros duplicados.
+- Regras de autorização verificadas no servidor, considerando vínculo ativo e papel do usuário no espaço de trabalho.
+- Registro de execução e histórico de alterações, com eventos de auditoria em operações relevantes.
+- Validação de anexos por tipo e tamanho, nomes de armazenamento aleatórios e download condicionado à autenticação e autorização.
+- Persistência com PostgreSQL e SQLite, testes automatizados com **pytest/pytest-django** e padronização estática com **Ruff**.
+- Pipeline de integração contínua com verificações Django, conferência de migrações, testes, build da imagem Docker e smoke test do container.
 
-[Ver código-fonte no GitHub](https://github.com/CarolMaini/sistema-tarefas) · [Experimentar a demonstração](https://organizador-demo.onrender.com)
+**Demonstração:** a aplicação está publicada separadamente na branch `render`. O ambiente oferece entrada como visitante, dados compartilhados de exemplo e bloqueio de operações de escrita, permitindo avaliar a experiência sem realizar login e sem comprometer os dados da demonstração. A publicação é demonstrativa, não uma homologação para uso com dados reais.
+
+O desenvolvimento é incremental: o README do repositório documenta o estado de cada funcionalidade, distinguindo itens implementados, parcialmente implementados e planejados.
+
+[Ver código-fonte e documentação técnica](https://github.com/CarolMaini/sistema-tarefas) · [Experimentar a demonstração pública](https://organizador-demo.onrender.com)
 
 ### Jogos de Quinta — Comunidade digital
 
