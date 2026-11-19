@@ -75,6 +75,12 @@ Repositório acadêmico para organizar exercícios, atividades práticas e conte
 **Tecnólogo em Análise e Desenvolvimento de Sistemas — Descomplica**  
 Cursando · início em 2026
 
+## Formação complementar
+
+**Programmer — Descomplica Faculdade Digital**  
+Módulo concluído no curso de Análise e Desenvolvimento de Sistemas · **160 horas**  
+Certificado emitido em 03/11/2026.
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carol%20Maini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-maini/)
