@@ -1,8 +1,8 @@
 # Carol Maini
 
-**Desenvolvedora de Software Júnior | Python · Django · Django REST Framework · JavaScript**
+**Desenvolvedora de Software Júnior | Python · Django · Django REST Framework · JavaScript · .NET**
 
-Desenvolvo aplicações web e trabalho na construção de interfaces, implementação de funcionalidades e integração entre frontend e backend. Minha experiência prática reúne **Python, Django, Django REST Framework, JavaScript, HTML5 e CSS3**, com atenção à organização do código, regras de negócio, APIs REST e experiência de uso.
+Desenvolvo aplicações web e trabalho na construção de interfaces, implementação de funcionalidades e integração entre frontend e backend. Minha experiência prática reúne **Python, Django, Django REST Framework, JavaScript, HTML5 e CSS3**, além de contato com **.NET, Docker e AWS** em tarefas e projetos colaborativos. Tenho atenção à organização do código, regras de negócio, APIs REST e experiência de uso.
 
 Gosto de entender como uma aplicação funciona por inteiro: desde a interface utilizada pelas pessoas até a lógica, os dados e as permissões que sustentam cada funcionalidade. Minha experiência complementar com **UI/UX e design digital** também contribui para meu olhar sobre usabilidade e consistência visual.
 
@@ -11,10 +11,10 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas na Descomplica** e si
 ## Tecnologias
 
 ### Desenvolvimento
-![Python, Django, JavaScript, HTML5, CSS3](https://skillicons.dev/icons?i=python,django,js,html,css&perline=5)
+![Python, Django, JavaScript, HTML5, CSS3, .NET](https://skillicons.dev/icons?i=python,django,js,html,css,dotnet&perline=6)
 
-### Dados, ferramentas e ambiente
-![PostgreSQL, SQLite, Docker, Git, GitHub](https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github&perline=5)
+### Dados, cloud, ferramentas e ambiente
+![PostgreSQL, SQLite, Docker, AWS, Git, GitHub](https://skillicons.dev/icons?i=postgres,sqlite,docker,aws,git,github&perline=6)
 
 ### Conhecimentos complementares
 WordPress · Elementor · Figma · Inkscape · GIMP · SEO
