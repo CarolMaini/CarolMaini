@@ -1,6 +1,8 @@
 # Carol Maini
 
-**Desenvolvedora de Software Júnior | Python · Django · Django REST Framework · JavaScript · .NET**
+**Desenvolvedor de Software | Desenvolvedor Back-end Python | Full Stack Developer**
+
+Python · Django · C# · .NET · JavaScript · PostgreSQL · APIs REST
 
 Desenvolvo aplicações web e trabalho na construção de interfaces, implementação de funcionalidades e integração entre frontend e backend. Minha experiência prática reúne **Python, Django, Django REST Framework, JavaScript, HTML5 e CSS3**, além de contato com **.NET, Docker e AWS** em tarefas e projetos colaborativos. Tenho atenção à organização do código, regras de negócio, APIs REST e experiência de uso.
 
@@ -85,6 +87,7 @@ Certificado emitido em 03/11/2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carol%20Maini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-maini/)
 [![GitHub](https://img.shields.io/badge/GitHub-CarolMaini-181717?style=flat&logo=github&logoColor=white)](https://github.com/CarolMaini)
+[![Behance](https://img.shields.io/badge/Behance-Carol%20Maini-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/carol-maini)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carolmainioficial@gmail.com)
 
 ---
